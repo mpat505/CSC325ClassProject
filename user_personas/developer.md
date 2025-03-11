@@ -1,4 +1,4 @@
-# User Persona: Developer
+# User persona: Developer
 
 ## Name
 James Kothran

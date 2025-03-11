@@ -1,4 +1,4 @@
-# User Persona: Owner
+# User persona: Owner
 
 ## Name
 Emily Eaton

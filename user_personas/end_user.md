@@ -1,10 +1,10 @@
-# User Persona: End User
+# User persona: End user
 
 ## Name
 Sarah Thompson
 
 ## Role
-End Uuser
+End User
 
 ## Demographics
 - **Age**: 28  
