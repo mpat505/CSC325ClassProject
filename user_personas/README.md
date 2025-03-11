@@ -1,4 +1,4 @@
-# User Personas
+# User personas
 
 This directory contains draft user personas to help developers create a user-centered product. Each persona represents a segment of the target audience and provides insights into their goals, challenges, and interactions with the software.
 
